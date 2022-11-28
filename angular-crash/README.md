@@ -1,1 +1,5 @@
+This project was a follow along tutorial that explored a more in depth approach to building an Angular front end.  I built out the code with the video but really tried to focus on the components and how they are created.  Each component has 4 files which I found interesting and after a while, it made sense as to why and how each component is split up.
 
+The tutorial was made by Traversy Media which is a great YouTube channel.  He explains new concepts in plain english and digs in slowly, allowing me to really grasp these brand new techniques and concepts.  This is technically a full stack application but the back end is kind of a boiler plate JSON file that acts as a back end and can accept API requests.  The way that worked was really interesting and I'd like to learn more about how that works and what can be done with it.
+
+The app itself was simply a Task Tracker.  Tasks could be added to a list, edited, or deleted.  It's a pretty simple app but the focus was in the code so the app itself was a perfect way to express these new ideas.  Overall, this was a fantastic learning expeience.  I know I'll be using Traversy Media in the future to learn more.  
